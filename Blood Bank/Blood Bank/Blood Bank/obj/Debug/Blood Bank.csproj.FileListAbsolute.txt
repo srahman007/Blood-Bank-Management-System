@@ -1,0 +1,40 @@
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe.config
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\bin\Debug\Blood Bank.pdb
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csprojAssemblyReference.cache
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form1.resources
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.GenerateResource.cache
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.CoreCompileInputs.cache
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood Bank.exe
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood Bank.pdb
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Dashboard.resources
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.AddNewDonor.resources
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.AllDonorDetails.resources
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.UpdateDonorDetails.resources
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.SearchBloodDonorAddress.resources
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.SearchDonorByBlood.resources
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.StockIncrease.resources
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.StockDecrease.resources
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.BloodStockDetails.resources
+C:\Users\Shafayet Rahman\Desktop\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.DeleteDonor.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe.config
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\bin\Debug\Blood Bank.pdb
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.AssemblyReference.cache
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.AddNewDonor.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.AllDonorDetails.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.BloodStockDetails.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Dashboard.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.DeleteDonor.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form1.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.SearchBloodDonorAddress.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.SearchDonorByBlood.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.StockDecrease.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.StockIncrease.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.UpdateDonorDetails.resources
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.GenerateResource.cache
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.CoreCompileInputs.cache
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood Bank.exe
+D:\Courses\OOP2\C# Project\Blood Bank\Blood Bank\obj\Debug\Blood Bank.pdb
